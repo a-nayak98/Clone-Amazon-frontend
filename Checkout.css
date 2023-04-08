@@ -1,0 +1,15 @@
+.checkOut{
+    
+    display: flex;
+    background-color: #fff;
+    height: max-content;
+}
+.checkOut__add{
+    width: 100%;
+    margin: 0 0 10px 0;
+}
+.checkOut__titel{
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
